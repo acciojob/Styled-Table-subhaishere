@@ -1,1 +1,17 @@
-/* your code */
+#Game{
+	width:100%;
+}
+td,th{
+	border:1px solid black;
+	
+	
+}
+tr:nth-child(even){
+background-color:whitesmoke;
+}
+th{
+	padding:0px;
+	background-color:blue;
+	
+}
+	
